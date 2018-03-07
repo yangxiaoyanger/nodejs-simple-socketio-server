@@ -1,0 +1,10 @@
+{
+  "name": "sparking-socket-server",
+  "version": "0.0.1",
+  "description": "sparking websocket nodejs server",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4",
+    "sqlite3": "^3.1.13"
+  }
+}
